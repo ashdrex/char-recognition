@@ -1,3 +1,5 @@
+# Written by Troy Schotter
+
 #binaryConvert
 #-takes in a array of values that represent a greyscaled image
 #-decides on a threshold dependant on the average value in the array and the perThresh parameter
